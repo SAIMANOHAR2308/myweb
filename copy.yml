@@ -4,4 +4,4 @@
      - name: copy the file from local to remote
        copy:
          src: target/myweb-8.2.0.war
-         dest: /root/apache-tomcat-8.0.52/webapps/
+         dest: /root/apache-tomcat-8.0.52/webapps
